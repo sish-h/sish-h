@@ -1,5 +1,5 @@
 E
-## 🟡 Pac-Man eats my contributions
+## Contributions Graph
 
 <picture>
   <source
