@@ -1,24 +1,38 @@
-# sish-h
-A little side project I've been working on in my free time. sish-h is a tool that helps with some task automation, but to be honest, it's still a bit of a mystery even to me.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E57F7&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Sish+%F0%9F%91%8B;I+build+things+that+work.;Sometimes+I+crashout+and+destroy+shit." alt="Typing SVG" />
+</div>
 
-## What it does
-It takes some input, does some stuff, and then spits out some output. I know, real descriptive, right? Essentially, it's a proof of concept for some ideas I've been playing around with.
+<br/>
 
-## Installation and Running
-To get started, you'll need to clone this repo and then run the following commands:
-```bash
-git clone https://github.com/your-username/sish-h.git
-cd sish-h
-./run.sh
-```
-This will get everything set up and running. Note that you may need to install some dependencies first, but that's all taken care of in the `run.sh` script.
+<p align="center">
+  Full-stack dev who likes clean code, fast systems, and shipping things.
+  <br/>
+  Mostly working with the backend-side, occasionally escaping into web stuff.
+</p>
 
-## Example
-Here's a quick example of how to use sish-h:
-```bash
-./sish-h --input example.txt --output output.txt
-```
-This will take the contents of `example.txt`, do some magic, and then write the result to `output.txt`. Check out the `examples` directory for more info.
+---
 
-## Contributing
-If you're feeling adventurous, feel free to contribute to sish-h. I'm not really sure where this project is going, but it's been a fun ride so far. Just send a PR and we'll go from there.
+### 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,cpp,aws,git,linux,docker&theme=dark" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sish-h&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sish-h&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sish-h&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sish-h&color=6E57F7&style=flat&label=profile+views" />
+</p>
