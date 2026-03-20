@@ -1,10 +1,9 @@
 <div align="center">
 
-<!-- ANIMATED WAVE BANNER -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=supremefuckery&fontSize=50&fontColor=00ff88&fontAlignY=38&desc=full%20stack%20dev%20%7C%20building%20weird%2C%20useful%20%26%20chaotic%20things&descSize=16&descAlignY=58&descColor=888888&animation=fadeIn)
+<!-- TYPING HEADER - reliable, hosted by Demolab -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&height=80&lines=supremefuckery)](https://git.io/typing-svg)
 
-<!-- TYPING EFFECT -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+supremefuckery+%F0%9F%91%BE;Full+Stack+Developer;Java+%7C+Python+%7C+JS+%7C+Flutter;Building+weird+%26+chaotic+things;Coffee-fueled+%E2%98%95+code+machine)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=2500&pause=1000&color=888888&center=true&vCenter=true&multiline=false&width=700&height=50&lines=full+stack+dev+%7C+building+weird%2C+useful+%26+chaotic+things;Java+%7C+Python+%7C+JS+%7C+Flutter+%7C+C%2B%2B;Coffee-fueled+%E2%98%95+code+machine;Big+Brain+Wojak.)](https://git.io/typing-svg)
 
 </div>
 
@@ -61,9 +60,6 @@
 </div>
 
 ---
-
-<!-- FOOTER WAVE -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d0d0d&height=120&section=footer&animation=fadeIn)
 
 <div align="center">
   <sub>built with ☕, chaos, and a healthy disregard for sleep schedules.</sub>
